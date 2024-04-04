@@ -1,0 +1,96 @@
+{
+  "sTheme": "1",
+  "sNames": "Brisco & Sintiani",
+  "sWANumber": "6282320295336",
+  "oMale": {
+    "sImg": "https://s.kaskus.id/images/2024/04/03/8937321_202404030244190274.png",
+    "sFullname": "Brisco Tarigan",
+    "sNickname": "Brisco",
+    "sFatherName": "Rianto Tarigan",
+    "sMotherName": "Elsi Br Sinuraya",
+    "sIGUsername": "briscotarigan"
+  },
+  "oFemale": {
+    "sImg": "https://s.kaskus.id/images/2024/04/03/8937321_202404030244010310.png",
+    "sFullname": "Sintiani Br Ginting Munthe, S.Kom",
+    "sNickname": "Sintiani",
+    "sFatherName": "Marihat Ginting Munthe",
+    "sMotherName": "Florida Br Sembiring",
+    "sIGUsername": "sintianiginting05"
+  },
+  "sDate": "2024-04-25",
+  "sHour": "14",
+  "aGalleries": [
+    "https://s.kaskus.id/images/2024/04/03/8937321_202404030928560621.png",
+    "https://s.kaskus.id/images/2024/04/03/8937321_202404030929020279.png",
+    "https://s.kaskus.id/images/2024/04/03/8937321_202404030929090678.png",
+    "https://s.kaskus.id/images/2024/04/03/8937321_202404030929190780.png",
+    "https://s.kaskus.id/images/2024/04/03/8937321_202404030930350446.png",
+    "https://s.kaskus.id/images/2024/04/03/8937321_202404030930450807.png",
+    "https://s.kaskus.id/images/2024/04/03/8937321_202404030930510163.png",
+    "https://s.kaskus.id/images/2024/04/03/8937321_202404030931090683.png"
+  ],
+  "aLoveStories": [
+    {
+      "sYear": "",
+      "sImg": "https://s.kaskus.id/images/2024/04/03/8937321_202404030929020279.png",
+      "sTitle": "Berjumpa",
+      "sDesc": "Di sebuah kantor yang sibuk, terjalinlah kisah cinta antara Brisco dan Sintiani. Awalnya, mereka hanyalah rekan kerja biasa, tetapi takdir berkata lain. Setiap hari mereka berbagi tawa, tangisan, dan cerita hidup di antara rapat dan deadline. Tatapan yang semula sekadar profesional perlahan berubah menjadi pandangan yang penuh makna. Dari ruang rapat hingga sudut kantin, cinta pun tumbuh di antara dua hati yang semula asing, membuktikan bahwa cinta tak mengenal batas, bahkan di tempat kerja yang sibuk."
+    },
+    {
+      "sYear": "",
+      "sImg": "https://s.kaskus.id/images/2024/04/03/8937321_202404030929190780.png",
+      "sTitle": "Berpacaran",
+      "sDesc": "Di suatu pagi yang sejuk, Brisco dan Sintiani memutuskan untuk mengambil langkah besar dalam hubungan mereka. Mereka mengucapkan kata-kata yang telah lama mereka pendam. Dengan hati yang berdebar, mereka memutuskan untuk menjadi sepasang kekasih resmi, mengikat janji untuk saling mendukung dan mencintai satu sama lain dalam setiap musim dan perubahan yang datang."
+    },
+    {
+      "sYear": "",
+      "sImg": "https://s.kaskus.id/images/2024/04/03/8937321_202404030931090683.png",
+      "sTitle": "Menikah",
+      "sDesc": "Di antara hiruk pikuk kota, terjalinlah kisah cinta antara Brisco dan Sintiani, yang penuh liku dan cobaan namun juga penuh kebahagiaan. Dari pertemuan tak terduga hingga kejadian yang menguji kesabaran, mereka berdua menemukan bahwa cinta sejati memang tidak selalu mudah, namun ketika mereka memilih untuk saling percaya, segala rintangan terasa lebih mudah diatasi. Dan begitu banyak cerita cinta mereka baik senang maupun sedih yang harus di lewati sampai mengikat janji saling percaya."
+    }
+  ],
+  "aLocations": [
+    {
+      "sTitle": "Pemberkatan",
+      "sDate": "Kamis, 25 April 2024",
+      "sHour": "Pukul: 14.00 s/d Selesai",
+      "sAddress": "GBKP Runggun Sampun",
+      "sAddress2": "",
+      "sGMapLink": ""
+    },
+    {
+      "sTitle": "Resepsi",
+      "sDate": "Jumat, 26 April 2024",
+      "sHour": "Pukul: 08.00 s/d Selesai",
+      "sAddress": "Jambur Arih Ersada dari Desa Sampun (Kecamatan Dolat Rayat, Kabupaten Karo)",
+      "sAddress2": "",
+      "sGMapLink": ""
+    }
+  ],
+  "aBanks": [
+    {
+      "sName": "MANDIRI",
+      "sNumber": "1050016494605",
+      "sPersonName": "Sinitiani Br Ginting"
+    },
+    {
+      "sName": "MANDIRI",
+      "sNumber": "1050014505626",
+      "sPersonName": "Brisco Tarigan"
+    }
+  ],
+  "sSongLocation": "/mp3/kulcapi-karo-kemberahen.mp3",
+  "oWords": {
+    "sWords1": "Shalom, Mejuah-juah! Dengan sukacita kami umumkan bahwa kami akan menyatukan hidup dalam ikatan pernikahan, dan kami sangat mengharapkan kehadiran Anda untuk turut merayakan kebahagiaan kami pada hari istimewa itu!"
+  },
+  "oLiveStreaming": {
+    "IG": "",
+    "YT": "",
+    "Tiktok": ""
+  },
+  "oVerse": {
+    "sTitle": "Matius 19:6",
+    "sDesc": "Demikianlah mereka bukan lagi dua, melainkan satu. Karena itu, apa yang telah dipersatukan Allah, tidak boleh diceraikan manusia."
+  }
+}
